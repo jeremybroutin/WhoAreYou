@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D8B9B8851607D40B5232927544FCDD82B1069BF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D8B9B8851607D40B5232927544FCDD82B1069BF1" : 9223372036854775807,
+    "8FB27DC6686D128D98CDA96CFF8532A170CFB336" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "481EDE58-1464-4542-83A5-3BF7EAB54E4C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D8B9B8851607D40B5232927544FCDD82B1069BF1" : "WhoAreYou\/",
+    "8FB27DC6686D128D98CDA96CFF8532A170CFB336" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WhoAreYou",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WhoAreYou.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/uwpce-iphone120b-winter-17.git.beanstalkapp.com\/jbroutin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FB27DC6686D128D98CDA96CFF8532A170CFB336"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeremybroutin\/WhoAreYou",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8B9B8851607D40B5232927544FCDD82B1069BF1"
+    }
+  ]
+}
